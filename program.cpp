@@ -16,4 +16,5 @@ int main () {
 	//TODO
 	printMyName();
 	printMyIndex();
+	//implementiran main del malce pornao :(
 }
