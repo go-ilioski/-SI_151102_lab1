@@ -1,0 +1,5 @@
+commit fd1a34c6f27eb62da443f5da294766a166990719 (HEAD -> logs, origin/master, master)
+Author: unknown <goran.ilioski@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:42:47 2019 +0200
+
+    Initial commit
